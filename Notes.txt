@@ -1,0 +1,4 @@
+* Install Angular - [npm install -g @angular/cli]
+* Start Empty Project - [ng new {project-name}]
+* start app - [ng serve]
+
